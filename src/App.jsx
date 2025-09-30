@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import ProductList from './ProductList';
 import './App.css';
+import './ProductList.css';
 import AboutUs from './AboutUs';
 
 function App() {
